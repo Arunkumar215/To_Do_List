@@ -1,4 +1,4 @@
-# Ex03 To-Do List 
+# Ex03 To-Do List using JavaScript
 ## Name: Arunkumar S A
 ## Reg No: 212223220009
 
